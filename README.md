@@ -185,7 +185,7 @@ https://github.com/AKAMUNDRA/Loan-Data-Analysis/blob/main/Loan_default.zip
 
 ### Option 2 — Open in Power BI Desktop
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-2. Open ``
+2. Open `https://github.com/AKAMUNDRA/Loan-Data-Analysis`
 3. Explore all 3 interactive report pages
 
 ### Option 3 — Replicate the Full Pipeline
@@ -205,32 +205,6 @@ https://github.com/AKAMUNDRA/Loan-Data-Analysis/blob/main/Loan_default.zip
 - 📊 **Data Analysts** — Practice building an end-to-end Power BI solution
 - 🎓 **Students** — Learn DAX, Dataflows, Gateway, and incremental refresh
 - 🔬 **Researchers** — Analyze default patterns across socio-economic segments
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the repository
-2. Create your branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Your Name**
-- 🔗 LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
 
 ---
 
