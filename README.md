@@ -22,7 +22,7 @@ Interactive Power BI dashboard analyzing loan default rates by employment type, 
 ![Applicant Demographics](https://github.com/AKAMUNDRA/Loan-Data-Analysis/blob/main/Applicamt%20Demographic.png)
 
 ### Page 3 — Financial Risk Metrics
-![Financial Risk Metrics](screenshots/L1.png)
+![Financial Risk Metrics](https://github.com/AKAMUNDRA/Loan-Data-Analysis/blob/main/Financial%20Risk%20Metrics.png)
 
 ---
 
