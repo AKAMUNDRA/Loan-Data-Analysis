@@ -180,14 +180,12 @@ Tracks YoY changes in loan volume, defaults, and risk by income and credit segme
 
 ### Option 1 — Explore the Dataset
 ```bash
-git clone https://github.com/your-username/loan-default-analytics.git
-cd loan-default-analytics/dataset
-# Open Loan_default.csv in Excel, Python, or any BI tool
+https://github.com/AKAMUNDRA/Loan-Data-Analysis/blob/main/Loan_default.zip
 ```
 
 ### Option 2 — Open in Power BI Desktop
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-2. Open `dashboard/Loan_Default_Analytics.pbix`
+2. Open ``
 3. Explore all 3 interactive report pages
 
 ### Option 3 — Replicate the Full Pipeline
