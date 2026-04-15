@@ -16,7 +16,7 @@ Interactive Power BI dashboard analyzing loan default rates by employment type, 
 ## 📸 Dashboard Preview
 
 ### Page 1 — Loan Default And Overview
-![Loan Default Overview](screenshots/Loan_Default.png)
+![Loan Default Overview](https://github.com/AKAMUNDRA/Loan-Data-Analysis/blob/main/Loan%20Default.png)
 
 ### Page 2 — Applicant Demographics & Financial Profile
 ![Applicant Demographics](screenshots/Loan_D.png)
